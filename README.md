@@ -30,3 +30,4 @@ new change for merge test
 force change for merge
 force change
 bug-fix-typo
+force change
