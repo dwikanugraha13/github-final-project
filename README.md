@@ -31,3 +31,4 @@ force change for merge
 force change
 bug-fix-typo
 force change
+new change for task 7 fix
