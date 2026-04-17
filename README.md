@@ -8,6 +8,7 @@ Simple Interest is calculated using:
 
 SI = (P × R × T) / 100
 
+<<<<<<< HEAD
 Where:
 - P = Principal amount
 - R = Rate of interest
@@ -20,3 +21,27 @@ Where:
 3. Enter rate of interest
 4. Enter time period
 5. The program will display the simple interest result
+=======
+_© 2022 XYZ, Inc._
+fix typo test
+HEAD
+test merge change
+fix merge test
+new change for merge testnew update for PR
+new update for task 8
+test change
+force change for merge
+new change for merge test
+force change for merge
+force change
+HEAD
+HEAD
+new change for task 7 fix
+bug-fix-typo
+new change for merge test
+bug-fix-typo
+new update for task 7 final fix
+final task 7 fix update
+task 7 fresh change
+final task 7 update fix
+>>>>>>> c9add8b (new update for task 7)
