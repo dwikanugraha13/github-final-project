@@ -52,4 +52,8 @@ final task 7 update
 >>>>>>> f99b699 (final update task 7)
 =======
 final fix task 7 clean
+<<<<<<< HEAD
 >>>>>>> 513349a (clean task 7 update)
+=======
+final task 7 fix clean version
+>>>>>>> d7a7d05 (clean task 7 version)
