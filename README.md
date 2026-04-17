@@ -44,4 +44,8 @@ new update for task 7 final fix
 final task 7 fix update
 task 7 fresh change
 final task 7 update fix
+<<<<<<< HEAD
 >>>>>>> c9add8b (new update for task 7)
+=======
+final task 7 update
+>>>>>>> f99b699 (final update task 7)
