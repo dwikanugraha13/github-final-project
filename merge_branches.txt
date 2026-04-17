@@ -1,3 +1,4 @@
+* 7d8e55f new change for merge test
 * 32d1bb2 update merge log
 *   b216cea resolve merge conflict
 |\  
