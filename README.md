@@ -22,4 +22,4 @@ fix typo test
 HEAD
 test merge change
 fix merge test
-new change for merge test
+new change for merge testnew update for PR
