@@ -26,3 +26,4 @@ task 7 update fix
 task 7 final update
 task 7 final fix version 2
 task 7 final fix version 3
+task 7 final fix clean
