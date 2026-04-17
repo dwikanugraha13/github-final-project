@@ -4,6 +4,7 @@
 
 This is for simple fix A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+ini perubahan untuk pull request
 perbaikan di branch bug-fix
 
 ```
