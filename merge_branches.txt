@@ -1,3 +1,4 @@
+* 32d1bb2 update merge log
 *   b216cea resolve merge conflict
 |\  
 | * 34f5f91 add change for merge test

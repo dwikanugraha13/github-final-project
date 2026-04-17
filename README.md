@@ -23,3 +23,4 @@ HEAD
 test merge change
 fix merge test
 bug-fix-typo
+new change
